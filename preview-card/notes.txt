@@ -1,0 +1,5 @@
+Thoughts:
+    1. mozilla has a built in color picking tool
+    2. responsive design is very finicky / interesting
+    3. box shadows are very subtle but I can appreciate them
+    4. If I need a shadow that has different border-radius than element I can always just add a wrapping div and add the shadow to that

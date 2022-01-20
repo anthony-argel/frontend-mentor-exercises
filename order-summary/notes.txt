@@ -1,0 +1,5 @@
+1. If you want to add padding without actually affecting the width of an element, wrap it around an empty element. This way you keep the width in the parent but can add padding now.
+2. If that doesn't work, use flexbox and space-around/space-between to get left-right padding then can manually add top/bottom padding
+3. it's easier to use SVG as a background image (at least for this example)
+4. for google fonts to work you have to select all the correct ones (the weights)
+5. if given colors, should have all the colors actually populated so I can see what they are. Makes things faster.
